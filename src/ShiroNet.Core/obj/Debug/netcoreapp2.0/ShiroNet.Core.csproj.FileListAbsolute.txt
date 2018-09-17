@@ -1,0 +1,6 @@
+F:\PersionFiles\Projects\ShiroNet\src\ShiroNet.Core\bin\Debug\netcoreapp2.0\ShiroNet.Core.deps.json
+F:\PersionFiles\Projects\ShiroNet\src\ShiroNet.Core\bin\Debug\netcoreapp2.0\ShiroNet.Core.dll
+F:\PersionFiles\Projects\ShiroNet\src\ShiroNet.Core\obj\Debug\netcoreapp2.0\ShiroNet.Core.csprojResolveAssemblyReference.cache
+F:\PersionFiles\Projects\ShiroNet\src\ShiroNet.Core\obj\Debug\netcoreapp2.0\ShiroNet.Core.csproj.CoreCompileInputs.cache
+F:\PersionFiles\Projects\ShiroNet\src\ShiroNet.Core\obj\Debug\netcoreapp2.0\ShiroNet.Core.AssemblyInfoInputs.cache
+F:\PersionFiles\Projects\ShiroNet\src\ShiroNet.Core\obj\Debug\netcoreapp2.0\ShiroNet.Core.AssemblyInfo.cs

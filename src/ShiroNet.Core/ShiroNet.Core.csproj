@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>ShiroNet</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Concurrent\" />
+    <Folder Include="Config\" />
+    <Folder Include="Dao\" />
+    <Folder Include="Env\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="1.1.0" />
+  </ItemGroup>
+
+</Project>
